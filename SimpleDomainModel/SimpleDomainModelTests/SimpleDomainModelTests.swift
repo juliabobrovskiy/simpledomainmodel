@@ -10,7 +10,7 @@ import XCTest
 
 import SimpleDomainModel
 
-//////////////////
+////////////////
 // Basic "test that the tests are working" tests
 //
 class SimpleDomainModelTests: XCTestCase {
